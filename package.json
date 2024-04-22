@@ -20,11 +20,10 @@
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
     "strapi-plugin-import-export-entries": "^1.23.1",
-    "strapi-plugin-netlify-deployments": "^2.0.2",
     "styled-components": "5.3.3"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Wallace Erick"
   },
   "strapi": {
     "uuid": "22be2270-7a7d-416a-a4be-9c0a5b4b3b85"
